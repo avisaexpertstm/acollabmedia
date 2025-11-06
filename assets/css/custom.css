@@ -1,0 +1,15 @@
+/* a, button{
+    color: black;
+} */
+.navbar__mobile-options .btn--secondary{
+    color: black;
+}
+.primary-navbar .open-mobile-menu{
+    color: black;
+}
+.fa-xmark-large{
+    color: white;
+}
+.navbar__dropdown-label{
+    color: black;
+}
